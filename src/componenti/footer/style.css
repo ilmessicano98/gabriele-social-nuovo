@@ -1,0 +1,11 @@
+.footer {
+  justify-content: center;
+  bottom: 0;
+  background-color: rgb(219, 75, 9);
+  color: rgb(14, 22, 24); 
+  display: flex;
+  flex: 1;
+  
+
+  } 
+    

@@ -1,0 +1,28 @@
+.contenuti {
+    display: flex;
+    flex: 1;
+    background-color: #dfad0c;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    gap: 8px;
+}
+
+.post {
+    display: flex;
+    flex: 1;
+    border: 1px solid;
+    justify-content: center;
+    flex-direction: column;
+    font-size: large;
+    font-weight: bold;
+   
+}
+
+.id {
+    margin: 0;
+}
+
+
+
